@@ -1,12 +1,12 @@
 {
-  "details":{
-    "0":{
+  "details"[
+    {
       "email":"sahu@gmail.com",
       "campaignName": "Roadmap"
     },
-    "1":{
+    {
       "email":"shubham@gmail.com",
       "campaignName":"Xray"
     }
-  }
+  ]
 }
