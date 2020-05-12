@@ -1,11 +1,10 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "email":"sahu@gmail.com",
+    "campaignName": "Roadmap"
+  },
+  {
+    "email":"shubham@gmail.com",
+    "campaignName":"Xray"
   }
-}
+]
