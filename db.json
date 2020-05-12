@@ -1,27 +1,7 @@
 {
   "details": [
     {
-      "id": 1,
-      "email":"sahu@gmail.com",
-      "campaignName": "Roadmap"
-    },
-    {
-      "id": 2,
-      "email":"shubham@gmail.com",
-      "campaignName":"Xray"
-    },
-    {
-      "id": 3,
-      "email":"Zyro@gmail.com",
-      "campaignName":"Zyro"
-    },
-    {
-      "id": 4,
-      "email":"New@gmail.com",
-      "campaignName":"New"
-    },
-    {
-      "id": 5,
+      "id": 6,
       "email":"anjanish@gmail.com",
       "campaignName":"New"
     }
