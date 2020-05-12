@@ -1,10 +1,12 @@
-[
-  {
-    "email":"sahu@gmail.com",
-    "campaignName": "Roadmap"
-  },
-  {
-    "email":"shubham@gmail.com",
-    "campaignName":"Xray"
-  }
-]
+{
+  "details":[
+    {
+      "email":"sahu@gmail.com",
+      "campaignName": "Roadmap"
+    },
+    {
+      "email":"shubham@gmail.com",
+      "campaignName":"Xray"
+    }
+  ]
+}
