@@ -3,7 +3,8 @@
     {
       "id": 6,
       "email":"anjanish@gmail.com",
-      "campaignName":"New"
+      "campaignName":"New",
+      "test": [{"name":"sa","value":2},{"name":"fa","value":1}]
     }
   ]
 }
